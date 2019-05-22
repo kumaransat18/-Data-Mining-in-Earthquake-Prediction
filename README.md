@@ -1,1 +1,1 @@
-# -Data-Mining-in-Earthquake-Prediction
+# Data-Mining-in-Earthquake-Prediction
